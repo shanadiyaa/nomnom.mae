@@ -1,5 +1,7 @@
 Nom Nom Mae is a web platform designed to support local small and medium enterprises (UMKM) in the culinary sector. Developed as part of an internship project at Gamelab.id
 
+Live Demo : nomnommae-landingpage.netlify.app
+
 Features =
 
 Product Showcase: Display culinary products with details (price, description, images).
